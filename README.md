@@ -1,1 +1,1 @@
-# FlexTable
+Simple example for FlexTable
